@@ -19,7 +19,7 @@
 
 !(https://github-readme-stats.vercel.app/api?username=bagasst&show_icons=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)
+!(https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)
 
 
 <strong>Language & Tools</strong>
