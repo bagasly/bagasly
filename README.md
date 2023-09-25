@@ -21,7 +21,7 @@
 
 <strong>Yosh!</strong>
 <div align="center">
-  [![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst)]
+[![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst)]
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)]
