@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 <p>
-    <img src="https://img.shields.io/badge/JavaSript-white?&logo=javascript&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/JavaSript-yellow?&logo=javascript&logoColor=yellow" />
 </p>
 
 
