@@ -20,8 +20,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bagasst&show_icons=true&include_all_commits=true&theme=buefy" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst&theme=buefy" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)
 
 <strong>Language & Tools</strong>
 <p>
