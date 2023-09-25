@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=700&color=FFFFFF&width=450&height=60&lines=Hello+World!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=FFFFFF&width=450&height=60&lines=Hello+World!)
 
 <p align="justify">
     Hello, I'm Bagas Yuli Prasetyo, a passionate self-taught web developer from Indonesia. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I pay close attention to the experience, architecture, and code quality of the things I build.
