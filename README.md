@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=FFFFFF&width=450&height=60&lines=Hello+World!)](https://git.io/typing-svg)
 
 <p>
-    Hello, I'm Bagas Yuli Prasetyo. You can see my opensource work below. Ilove coding in JavaScript.
-    I am a friendly guy please connect with me onsocial media, I want my work to be useful to you.
+    Hello, I'm Bagas Yuli Prasetyo. You can see my opensource work below. Hi, I'm Bagas Yuli Prasetyo, a passionate self-taught web developer from Indonesia. My passion for software lies in dreaming up ideas and bringing them to life with elegant interfaces. I pay close attention to the experience, architecture, and code quality of the things I build.
+</p>
+<p>
+    I'm also an open source fan and maintainer. I learn a lot from the open source community and I love how collaboration and knowledge sharing happens through open source., I want my work to be useful to you.
 </p>
 
 <strong>About Me</strong>
