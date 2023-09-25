@@ -19,14 +19,19 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<strong>Yosh!</strong>
+<div id="header" align="center">
+  [![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst)]
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)]
   
 <strong>Tools</strong>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
-[![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)]
+
  
 <strong>Let's connect!</strong>
 <div id="header" align="center">
