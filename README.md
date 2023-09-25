@@ -17,9 +17,9 @@
 
 <strong>Yosh!</strong>
 
-!(https://github-readme-stats.vercel.app/api?username=bagasst&show_icons=true)
+![bagasst GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst&show_icons=true)
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)
 
 
 <strong>Language & Tools</strong>
