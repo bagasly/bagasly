@@ -4,20 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&pause=1000&color=FFFFFF&width=450&height=60&lines=Hello+World!)](https://git.io/typing-svg)
 
-### <strong>About Me</strong>
+
 <p>
     Hello, I'm Bagas Yuli Prasetyo. You can see my opensource work below. Ilove coding in JavaScript.
-</p>
-<p>
     I am a friendly guy please connect with me onsocial media, I want my work to be useful to you.
 </p>
 
-### <strong>Tools:</strong>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
-
-### <strong>Yosh!</strong>
+### <strong>About Me</strong>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,6 +19,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  
+### <strong>Tools:</strong>
+<p>
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+</p>
     
  
 ### <strong>Let's connect!</strong>
