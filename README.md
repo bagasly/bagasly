@@ -20,7 +20,7 @@
 - ⚡ Fun fact: ...
 
 <strong>Yosh!</strong>
-<div id="header" align="center">
+<div align="center">
   [![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst)]
 </div>
 
