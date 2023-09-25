@@ -10,28 +10,22 @@
 <strong>About Me</strong>
 - 👋 Hi, have a nice day!
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently focusing on learning Backend Web development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Programming and Joke Programming
+- 💞️ I’m looking to collaborate on Github
+
 
 <strong>Yosh!</strong>
-
 ![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagasst)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagasst)
-  
+
+
 <strong>Tools</strong>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
 
- 
 <strong>Let's connect!</strong>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
