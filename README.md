@@ -17,6 +17,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 👋
+- ❤️ I love writing JavaScript, and building fun experiments on type-level
   
 <strong>Tools</strong>
 <p>
