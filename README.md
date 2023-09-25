@@ -36,7 +36,7 @@
   <a href="www.linkedin.com/in/bagasst">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="[your-youtube-URL](https://www.youtube.com/channel/UChmT1pngl9BASNqFhrGog4w)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
