@@ -8,7 +8,7 @@
 </p>
 
 <strong>About Me</strong>
-- 👋 Hi, have a nice day! with your code diary, work slowly but never backwards
+- 👋 Hello, enjoy your day! Work slowly, but never backwards, while using your code diary.
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 - 🌱 I’m currently focusing on learning Backend Web development
 - 👀 I’m interested in Programming and Joke Programming
