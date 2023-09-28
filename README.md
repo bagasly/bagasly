@@ -8,11 +8,11 @@
 </p>
 
 <strong>About Me</strong>
-- 👋 Hello, enjoy your day! Work slowly, but never backwards, while using your code diary.
-- ❤️ I love writing JavaScript, and building fun experiments on type-level
-- 🌱 I’m currently focusing on learning Backend Web development
-- 👀 I’m interested in Programming and Joke Programming
+- 🌱 Currently, my learning is focused on backend web development
+- ❤️ I like writing JavaScript and coming up with fun experiments
+- 👀 I'm interested in joke programming and programming in general
 - 💞️ I’m looking to collaborate on Github
+- 👋 Work slowly, but never backwards!
 
 
 <strong>Yosh!</strong>
